@@ -1,0 +1,23 @@
+{
+  "name": "codespaces-infrendszerek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aron123/codespaces-infrendszerek.git"
+  },
+  "author": {
+    "name": "Áron, Kiss",
+    "email": "aron.kiss@uni-miskolc.hu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aron123/codespaces-infrendszerek/issues"
+  },
+  "homepage": "https://github.com/aron123/codespaces-infrendszerek#readme",
+  "dependencies": {}
+}
